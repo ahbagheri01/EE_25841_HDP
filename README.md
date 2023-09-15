@@ -1,6 +1,6 @@
 # EE_25841_HDP
 ## Project
-Survey of Multiple Analysis paper on Adversarial Training
+Survey of Multiple Analysis papers on Adversarial Training
 - Introduction
 - A Taxonomy for Adversarial Training in Deep Learning
 - Generalization Properties
